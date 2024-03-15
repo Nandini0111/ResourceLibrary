@@ -1,9 +1,8 @@
 import React from 'react';
 import { Card, CardMedia, CardContent, CardActionArea } from '@mui/material';
 
-const ResourceCard = ({ image, title, description, url }) => { // Assuming you pass `url` as a prop now
+const ResourceCard = ({ image, title, description, url }) => {
   const handleCardClick = () => {
-    // Open the URL in a new tab
     window.open(url, '_blank', 'noopener,noreferrer');
   };
 
@@ -12,7 +11,7 @@ const ResourceCard = ({ image, title, description, url }) => { // Assuming you p
       <CardActionArea onClick={handleCardClick}>
         <CardMedia
           component="img"
-          height="140"
+          sx={{height:"200"}}
           image={image}
           alt={title}
         />

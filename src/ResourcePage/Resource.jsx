@@ -3,6 +3,7 @@ import ResourceTab from './ResourceTab'; // Assuming this handles category filte
 import ResourceCard from './ResourceCard';
 import resources from './Data/Links.json'; 
 import { Box, Typography, TextField } from "@mui/material";
+import Divider from '@mui/material/Divider';
 
 function Resources() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -22,10 +23,11 @@ function Resources() {
 
   return (
     <div>
-      <Typography align="center" variant="h1">
+      <Typography align="center" variant="h2" className='pb-1'>
         Resource Library
       </Typography>
-      <Typography align="center">Build your financial knowledge.</Typography>
+      <Typography align="center" className='pb-2'>Build your financial knowledge.</Typography>
+      <Divider />
       
       <div className="container mx-auto p-6">
         <ResourceTab onCategoryChange={handleCategoryChange} /* props */ />

@@ -18,7 +18,7 @@ export default function ResourceTab({ onCategoryChange }) {
   };
 
   return (
-    <Box sx={{ padding: "10px 10px 10px", bgcolor: 'background.paper' }}>
+    <Box sx={{ padding: "0px 0px 10px 0px", bgcolor: 'background.paper' }}>
       <Tabs
         value={value}
         onChange={handleChange}
