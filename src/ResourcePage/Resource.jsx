@@ -1,37 +1,36 @@
 import React, { useState } from 'react';
-import ResourceTab from './ResourceTab'; // Assuming this handles category filtering
+import ResourceTab from './ResourceTab'; 
 import ResourceCard from './ResourceCard';
 import resources from './Data/Links.json'; 
-import { Box, Typography, TextField } from "@mui/material";
+import { Typography } from "@mui/material";
 import Divider from '@mui/material/Divider';
 
 function Resources() {
   const [searchTerm, setSearchTerm] = useState('');
-  const [activeCategory, setActiveCategory] = useState('saving'); // Default to 'saving' or any category you prefer
+  const [activeCategory, setActiveCategory] = useState('Financial tools');
 
-
-
-  // Assuming ResourceTab can change the activeCategory
   const handleCategoryChange = (category) => {
     setActiveCategory(category);
   };
 
-  // Filter resources based on search term and active category
   const filteredResources = resources[activeCategory].filter((resource) =>
     resource.title.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
   return (
     <div>
-      <Typography align="center" variant="h2" className='pb-1'>
+      <Typography align="center" variant="h2" className='pb-1 hidden sm:block' sx={{ fontWeight: 'bold' }}>
+        Resource Library
+      </Typography>
+      <Typography align="center" variant="h4" className='pb-2 pt-3 sm:hidden' sx={{ fontWeight: 'bold' }}>
         Resource Library
       </Typography>
       <Typography align="center" className='pb-2'>Build your financial knowledge.</Typography>
       <Divider />
       
-      <div className="container mx-auto p-6">
-        <ResourceTab onCategoryChange={handleCategoryChange} /* props */ />
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <div className="container mx-auto p-0 sm:p-6">
+        <ResourceTab onCategoryChange={handleCategoryChange} />
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {filteredResources.map((resource) => (
             <ResourceCard key={resource.id} {...resource} />
           ))}

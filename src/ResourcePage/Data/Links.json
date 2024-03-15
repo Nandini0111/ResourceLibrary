@@ -1,166 +1,176 @@
 {
-    "saving": [
-      {
-        "id": 1,
-        "title": "Saving Strategy Guide",
-        "description": "Explore effective strategies for saving money and improving your financial health.",
-        "image": "https://picsum.photos/1001/400",
-        "url": "https://example.com/saving-strategy-guide" 
-
-      },
-      {
-        "id": 2,
-        "title": "Maximizing Your Savings",
-        "description": "Learn how to maximize your savings with these practical tips.",
-        "image": "https://picsum.photos/1001/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      }
-    ],
-    "finance": [
-      {
-        "id": 1,
-        "title": "Finance Management 101",
-        "description": "A beginner's guide to managing your personal finances effectively.",
-        "image": "https://picsum.photos/1000/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      }
-    ],
-    "investment": [
-      {
-        "id": 1,
-        "title": "Investing for Beginners",
-        "description": "Understand the basics of investing and how to get started.",
-        "image": "https://picsum.photos/1002/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      },
-      {
-        "id": 2,
-        "title": "Strategic Investment Planning",
-        "description": "Plan your investments strategically to achieve long-term financial goals.",
-        "image": "https://picsum.photos/1002/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      }
-    ],
-    "budgeting": [
-      {
-        "id": 1,
-        "title": "Budgeting Basics",
-        "description": "Learn the basics of creating and sticking to a budget.",
-        "image": "https://picsum.photos/1003/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      }
-    ],
-    "retirement_planning8": [
-      {
-        "id": 1,
-        "title": "Retirement Planning Guide",
-        "description": "Plan for your retirement with these insightful tips and strategies.",
-        "image": "https://picsum.photos/1004/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      },
-      {
-        "id": 2,
-        "title": "Early Retirement Strategies",
-        "description": "Discover strategies for achieving early retirement.",
-        "image": "https://picsum.photos/1004/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      }
-    ],
-    "retirement_planning7": [
-      {
-        "id": 1,
-        "title": "Retirement Planning Guide",
-        "description": "Plan for your retirement with these insightful tips and strategies.",
-        "image": "https://picsum.photos/1004/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      },
-      {
-        "id": 2,
-        "title": "Early Retirement Strategies",
-        "description": "Discover strategies for achieving early retirement.",
-        "image": "https://picsum.photos/1004/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      }
-    ],
-    "retirement_planning2": [
-      {
-        "id": 1,
-        "title": "Retirement Planning Guide",
-        "description": "Plan for your retirement with these insightful tips and strategies.",
-        "image": "https://picsum.photos/1004/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      },
-      {
-        "id": 2,
-        "title": "Early Retirement Strategies",
-        "description": "Discover strategies for achieving early retirement.",
-        "image": "https://picsum.photos/1004/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      }
-    ],
-    "retirement_planning3": [
-      {
-        "id": 1,
-        "title": "Retirement Planning Guide",
-        "description": "Plan for your retirement with these insightful tips and strategies.",
-        "image": "https://picsum.photos/1004/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      },
-      {
-        "id": 2,
-        "title": "Early Retirement Strategies",
-        "description": "Discover strategies for achieving early retirement.",
-        "image": "https://picsum.photos/1004/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      }
-    ],
-    "retirement_planning6": [
-      {
-        "id": 1,
-        "title": "Retirement Planning Guide",
-        "description": "Plan for your retirement with these insightful tips and strategies.",
-        "image": "https://picsum.photos/1004/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      },
-      {
-        "id": 2,
-        "title": "Early Retirement Strategies",
-        "description": "Discover strategies for achieving early retirement.",
-        "image": "https://picsum.photos/1004/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      }
-    ],
-    "retirement_planning4": [
-      {
-        "id": 1,
-        "title": "Retirement Planning Guide",
-        "description": "Plan for your retirement with these insightful tips and strategies.",
-        "image": "https://picsum.photos/1004/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      },
-      {
-        "id": 2,
-        "title": "Early Retirement Strategies",
-        "description": "Discover strategies for achieving early retirement.",
-        "image": "https://picsum.photos/1004/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      }
-    ],
-    "retirement_planning5": [
-      {
-        "id": 1,
-        "title": "Retirement Planning Guide",
-        "description": "Plan for your retirement with these insightful tips and strategies.",
-        "image": "https://picsum.photos/1004/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      },
-      {
-        "id": 2,
-        "title": "Early Retirement Strategies",
-        "description": "Discover strategies for achieving early retirement.",
-        "image": "https://picsum.photos/1004/400",
-        "url": "https://example.com/saving-strategy-guide" 
-      }
-    ]
-  }
-  
+  "Financial tools": [
+    {
+      "id": 1,
+      "title": "Saving Strategy Guide",
+      "description": "Explore effective strategies for saving money and improving your financial health.",
+      "image": "https://picsum.photos/1001/400",
+      "url": "https://example.com/saving-strategy-guide"
+    },
+    {
+      "id": 2,
+      "title": "Maximizing Your Savings",
+      "description": "Learn how to maximize your savings with these practical tips.",
+      "image": "https://picsum.photos/1001/400",
+      "url": "https://example.com/saving-strategy-guide"
+    },
+    {
+      "id": 3,
+      "title": "Saving Strategy Guide",
+      "description": "Explore effective strategies for saving money and improving your financial health.",
+      "image": "https://picsum.photos/1001/400",
+      "url": "https://example.com/saving-strategy-guide"
+    },
+    {
+      "id": 4,
+      "title": "Maximizing Your Savings",
+      "description": "Learn how to maximize your savings with these practical tips.",
+      "image": "https://picsum.photos/1001/400",
+      "url": "https://example.com/saving-strategy-guide"
+    },
+    {
+      "id": 5,
+      "title": "Saving Strategy Guide",
+      "description": "Explore effective strategies for saving money and improving your financial health.",
+      "image": "https://picsum.photos/1001/400",
+      "url": "https://example.com/saving-strategy-guide"
+    },
+    {
+      "id": 6,
+      "title": "Maximizing Your Savings",
+      "description": "Learn how to maximize your savings with these practical tips.",
+      "image": "https://picsum.photos/1001/400",
+      "url": "https://example.com/saving-strategy-guide"
+    }
+  ],
+  "Digital assets and NFTS": [
+    {
+      "id": 1,
+      "title": "Finance Management 101",
+      "description": "A beginner's guide to managing your personal finances effectively.",
+      "image": "https://picsum.photos/1000/400",
+      "url": "https://example.com/saving-strategy-guide"
+    }
+  ],
+  "Stocks": [
+    {
+      "id": 1,
+      "title": "Investing for Beginners",
+      "description": "Understand the basics of investing and how to get started.",
+      "image": "https://picsum.photos/1002/400",
+      "url": "https://example.com/saving-strategy-guide"
+    },
+    {
+      "id": 2,
+      "title": "Strategic Investment Planning",
+      "description": "Plan your investments strategically to achieve long-term financial goals.",
+      "image": "https://cdn.prod.www.spiegel.de/images/d2caafb1-70da-47e2-ba48-efd66565cde1_w1024_r0.9975262832405689_fpx44.98_fpy48.86.jpg",
+      "url": "https://example.com/saving-strategy-guide"
+    }
+  ],
+  "budgeting": [
+    {
+      "id": 1,
+      "title": "Budgeting Basics",
+      "description": "Learn the basics of creating and sticking to a budget.",
+      "image": "https://media.licdn.com/dms/image/D4D12AQHjnp8H542LQg/article-cover_image-shrink_600_2000/0/1693976745162?e=2147483647&v=beta&t=Ulo8gzzhOUrsxfw_vfmDbiELd7OlRXG1hzUXEKaDCGg",
+      "url": "https://example.com/saving-strategy-guide"
+    }
+  ],
+  "Cryptocurrency": [
+    {
+      "id": 1,
+      "title": "Retirement Planning Guide",
+      "description": "Plan for your retirement with these insightful tips and strategies.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://example.com/saving-strategy-guide"
+    },
+    {
+      "id": 2,
+      "title": "Early Retirement Strategies",
+      "description": "Discover strategies for achieving early retirement.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://example.com/saving-strategy-guide"
+    }
+  ],
+  "Cybersecurity in Finance": [
+    {
+      "id": 1,
+      "title": "Retirement Planning Guide",
+      "description": "Plan for your retirement with these insightful tips and strategies.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://example.com/saving-strategy-guide"
+    },
+    {
+      "id": 2,
+      "title": "Early Retirement Strategies",
+      "description": "Discover strategies for achieving early retirement.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://example.com/saving-strategy-guide"
+    }
+  ],
+  "Debt Management": [
+    {
+      "id": 1,
+      "title": "Retirement Planning Guide",
+      "description": "Plan for your retirement with these insightful tips and strategies.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://example.com/saving-strategy-guide"
+    },
+    {
+      "id": 2,
+      "title": "Early Retirement Strategies",
+      "description": "Discover strategies for achieving early retirement.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://example.com/saving-strategy-guide"
+    }
+  ],
+  "savings": [
+    {
+      "id": 1,
+      "title": "Retirement Planning Guide",
+      "description": "Plan for your retirement with these insightful tips and strategies.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://example.com/saving-strategy-guide"
+    },
+    {
+      "id": 2,
+      "title": "Early Retirement Strategies",
+      "description": "Discover strategies for achieving early retirement.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://example.com/saving-strategy-guide"
+    }
+  ],
+  "estate planning": [
+    {
+      "id": 1,
+      "title": "Retirement Planning Guide",
+      "description": "Plan for your retirement with these insightful tips and strategies.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://example.com/saving-strategy-guide"
+    },
+    {
+      "id": 2,
+      "title": "Early Retirement Strategies",
+      "description": "Discover strategies for achieving early retirement.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://example.com/saving-strategy-guide"
+    }
+  ],
+  "retirement planning": [
+    {
+      "id": 1,
+      "title": "Retirement Planning Guide",
+      "description": "Plan for your retirement with these insightful tips and strategies.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://example.com/saving-strategy-guide"
+    },
+    {
+      "id": 2,
+      "title": "Early Retirement Strategies",
+      "description": "Discover strategies for achieving early retirement.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://example.com/saving-strategy-guide"
+    }
+  ]
+}

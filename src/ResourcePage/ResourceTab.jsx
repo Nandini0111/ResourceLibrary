@@ -7,13 +7,9 @@ import resources from './Data/Links.json';
 
 export default function ResourceTab({ onCategoryChange }) {
   const [value, setValue] = React.useState(0);
-
-  // Assuming the structure of resources is an object with categories as keys
   const categories = Object.keys(resources);
-
   const handleChange = (event, newValue) => {
     setValue(newValue);
-    // Call the onCategoryChange prop with the new category name
     onCategoryChange(categories[newValue]);
   };
 
