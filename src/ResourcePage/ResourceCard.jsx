@@ -11,7 +11,6 @@ const ResourceCard = ({ image, title, description, url }) => {
       <CardActionArea onClick={handleCardClick}>
         <CardMedia
           component="img"
-          sx={{height:"300"}}
           className='max-h-72 min-h-72 rounded-sm'
           image={image}
           alt={title}
