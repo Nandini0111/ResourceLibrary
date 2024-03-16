@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Card, CardMedia, CardContent, CardActionArea } from '@mui/material';
+import { Card, CardMedia, CardContent, CardActionArea } from '@mui/material';
 
 const ResourceCard = ({ image, title, description, url }) => {
   const handleCardClick = () => {
@@ -21,7 +21,6 @@ const ResourceCard = ({ image, title, description, url }) => {
           <p className="text-gray-600 text-base">{description}</p>
         </CardContent>
         <button type="button" class= "text-white bg-[#4285F4]/90 hover:bg-[#4285F4] focus:ring-4 focus:outline-none focus:ring-[#4285F4]/50 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2">Learn More</button>
-        {/* <button type="button" class="text-white bg-[#446894] hover:bg-[#B9D7EA] focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2">Learn More</button> */}
       </CardActionArea>
     </Card>
   );

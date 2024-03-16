@@ -5,9 +5,9 @@ import resources from './Data/Links.json';
 import { Typography } from "@mui/material";
 import Divider from '@mui/material/Divider';
 
-function Resources() {
+function Resource() {
   const [searchTerm, setSearchTerm] = useState('');
-  const [activeCategory, setActiveCategory] = useState('Financial tools');
+  const [activeCategory, setActiveCategory] = useState('Digital assets and NFTS');
 
   const handleCategoryChange = (category) => {
     setActiveCategory(category);
@@ -40,4 +40,4 @@ function Resources() {
   );
 };
 
-export default Resources;
+export default Resource;

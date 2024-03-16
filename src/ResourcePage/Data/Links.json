@@ -1,71 +1,120 @@
 {
-  "Financial tools": [
-    {
-      "id": 1,
-      "title": "Saving Strategy Guide",
-      "description": "Explore effective strategies for saving money and improving your financial health.",
-      "image": "https://picsum.photos/1001/400",
-      "url": "https://example.com/saving-strategy-guide"
-    },
-    {
-      "id": 2,
-      "title": "Maximizing Your Savings",
-      "description": "Learn how to maximize your savings with these practical tips.",
-      "image": "https://picsum.photos/1001/400",
-      "url": "https://example.com/saving-strategy-guide"
-    },
-    {
-      "id": 3,
-      "title": "Saving Strategy Guide",
-      "description": "Explore effective strategies for saving money and improving your financial health.",
-      "image": "https://picsum.photos/1001/400",
-      "url": "https://example.com/saving-strategy-guide"
-    },
-    {
-      "id": 4,
-      "title": "Maximizing Your Savings",
-      "description": "Learn how to maximize your savings with these practical tips.",
-      "image": "https://picsum.photos/1001/400",
-      "url": "https://example.com/saving-strategy-guide"
-    },
-    {
-      "id": 5,
-      "title": "Saving Strategy Guide",
-      "description": "Explore effective strategies for saving money and improving your financial health.",
-      "image": "https://picsum.photos/1001/400",
-      "url": "https://example.com/saving-strategy-guide"
-    },
-    {
-      "id": 6,
-      "title": "Maximizing Your Savings",
-      "description": "Learn how to maximize your savings with these practical tips.",
-      "image": "https://picsum.photos/1001/400",
-      "url": "https://example.com/saving-strategy-guide"
-    }
-  ],
   "Digital assets and NFTS": [
     {
       "id": 1,
-      "title": "Finance Management 101",
-      "description": "A beginner's guide to managing your personal finances effectively.",
+      "title": "Digital Assets: Explained",
+      "description": "Uncover the fundamentals of digital assets and their place in the modern economy.",
       "image": "https://picsum.photos/1000/400",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://www.investopedia.com/terms/d/digital-asset-framework.asp"
+    },
+    {
+      "id": 2,
+      "title": "NFTs: A Simple Guide",
+      "description": "Demystify NFTs and learn how they prove ownership in the digital space.",
+      "image": "https://picsum.photos/1000/400",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/understanding-nfts-a-beginners-guide-to-non-fungible-tokens/articleshow/107420419.cms?from=mdr"
+    },
+    {
+      "id": 3,
+      "title": "NFT Investing Strategies",
+      "description": "Explore strategies for buying and selling NFTs, with tips for informed decision-making.",
+      "image": "https://picsum.photos/1000/400",
+      "url": "https://nftmetria.com/invest-nft/nft-invest-strategy/"
+    },
+    {
+      "id": 4,
+      "title": "Digital Assets: Buy or Sell?",
+      "description": "Gain insights into when to buy or sell digital assets within a volatile market.",
+      "image": "https://picsum.photos/1000/400",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/should-you-include-digital-assets-in-your-portfolio-in-2024/articleshow/108230873.cms?from=mdr"
+    },
+    {
+      "id": 5,
+      "title": "The Future of Ownership: NFTs",
+      "description": "Discover how NFTs are revolutionizing how we define and trade ownership.",
+      "image": "https://picsum.photos/1000/400",
+      "url": "https://www.linkedin.com/pulse/nfts-digital-ownership-future-assets-s3b-global-tfvxf/"
+    },
+    {
+      "id": 6,
+      "title": "Real-World NFT Applications",
+      "description": "Explore practical use cases of NFTs beyond digital art and collectibles.",
+      "image": "https://picsum.photos/1000/400",
+      "url": "https://blockworks.co/news/7-nft-use-cases"
+    },
+    {
+      "id": 7,
+      "title": "Digital Assets: Beyond the Buzz",
+      "description": "Dive deeper into the potential and challenges of digital assets in various industries.",
+      "image": "https://picsum.photos/1000/400",
+      "url": "https://www.linkedin.com/pulse/beyond-buzz-real-insights-fintechs-technological-evolution-fzfme/?trk=article-ssr-frontend-pulse_more-articles_related-content-card"
     }
   ],
   "Stocks": [
     {
       "id": 1,
-      "title": "Investing for Beginners",
-      "description": "Understand the basics of investing and how to get started.",
+      "title": "Stocks 101: Your Guide",
+      "description": "Understand the basics of stocks, the stock market, and how to get started.",
       "image": "https://picsum.photos/1002/400",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://www.investopedia.com/articles/basics/06/invest1000.asp"
     },
     {
       "id": 2,
-      "title": "Strategic Investment Planning",
-      "description": "Plan your investments strategically to achieve long-term financial goals.",
+      "title": "Decoding Stock Market Terms",
+      "description": "Demystify common stock market jargon for clearer investing decisions.",
       "image": "https://cdn.prod.www.spiegel.de/images/d2caafb1-70da-47e2-ba48-efd66565cde1_w1024_r0.9975262832405689_fpx44.98_fpy48.86.jpg",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://zerodha.com/varsity/chapter/commonly-used-jargons/"
+    },
+    {
+      "id": 3,
+      "title": "Long-Term Investing Strategies",
+      "description": "Discover time-tested approaches for building wealth through stocks.",
+      "image": "https://picsum.photos/1002/400",
+      "url": "https://www.forbes.com/advisor/in/investing/tips-for-long-term-investing/"
+    },
+    {
+      "id": 4,
+      "title": "Analyzing Stocks for Profit",
+      "description": "Learn how to evaluate a company's stock before investing.",
+      "image": "https://cdn.prod.www.spiegel.de/images/d2caafb1-70da-47e2-ba48-efd66565cde1_w1024_r0.9975262832405689_fpx44.98_fpy48.86.jpg",
+      "url": "https://www.investopedia.com/terms/s/stock-analysis.asp"
+    },
+    {
+      "id": 5,
+      "title": "Dividend Stocks for Income",
+      "description": "Learn about stocks that pay regular dividends and how they generate passive income.",
+      "image": "https://picsum.photos/1002/400",
+      "url": "https://www.indmoney.com/stocks/category/dividend-stocks"
+    },
+    {
+      "id": 6,
+      "title": "Stocks vs. Bonds: Differences",
+      "description": "Understand the distinctions between stocks and bonds for informed investing choices.",
+      "image": "https://cdn.prod.www.spiegel.de/images/d2caafb1-70da-47e2-ba48-efd66565cde1_w1024_r0.9975262832405689_fpx44.98_fpy48.86.jpg",
+      "url": "https://groww.in/p/difference-between-bonds-and-stocks"
+    }
+  ],
+  "Financial tools": [
+    {
+      "id": 1,
+      "title": "Financial Tools for Freedom",
+      "description": "Discover tools that streamline your finances and put you on the path to financial independence.",
+      "image": "https://picsum.photos/1001/400",
+      "url": "https://greatness.com/tools-to-kickstart-your-financial-freedom/"
+    },
+    {
+      "id": 2,
+      "title": "Your Financial Wellness Toolkit",
+      "description": "Explore the essential tools and strategies for improving your overall financial health.",
+      "image": "https://picsum.photos/1001/400",
+      "url": "https://news.hr.ncsu.edu/2021/03/financial-wellness-toolkit-ways-to-improve-your-finances/"
+    },
+    {
+      "id": 3,
+      "title": "Unlocking Your Financial Potential",
+      "description": "Learn how to leverage powerful financial tools to maximize your earning and saving capabilities.",
+      "image": "https://picsum.photos/1001/400",
+      "url": "https://medium.com/@krishsunil222/unlock-your-financial-potential-top-10-ways-to-make-money-and-transform-your-wealth-4defdcd1f77f"
     }
   ],
   "budgeting": [
@@ -74,103 +123,236 @@
       "title": "Budgeting Basics",
       "description": "Learn the basics of creating and sticking to a budget.",
       "image": "https://media.licdn.com/dms/image/D4D12AQHjnp8H542LQg/article-cover_image-shrink_600_2000/0/1693976745162?e=2147483647&v=beta&t=Ulo8gzzhOUrsxfw_vfmDbiELd7OlRXG1hzUXEKaDCGg",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://www.unfcu.org/financial-wellness/50-30-20-rule/"
+    },
+    {
+      "id": 2,
+      "title": "Master Your Money Mindset",
+      "description": "Discover how your money beliefs impact your budget and how to make positive changes.",
+      "image": "https://media.licdn.com/dms/image/D4D12AQHjnp8H542LQg/article-cover_image-shrink_600_2000/0/1693976745162?e=2147483647&v=beta&t=Ulo8gzzhOUrsxfw_vfmDbiELd7OlRXG1hzUXEKaDCGg",
+      "url": "https://medium.com/@jan.barley1/master-your-money-mindset-dc19723ebe8b"
+    },
+    {
+      "id": 3,
+      "title": "Envelope Budgeting Demystified",
+      "description": "Learn this effective method (sometimes using cash!) for controlling spending.",
+      "image": "https://media.licdn.com/dms/image/D4D12AQHjnp8H542LQg/article-cover_image-shrink_600_2000/0/1693976745162?e=2147483647&v=beta&t=Ulo8gzzhOUrsxfw_vfmDbiELd7OlRXG1hzUXEKaDCGg",
+      "url": "https://www.debt.org/advice/dave-ramseys-envelope-system-explained/"
+    },
+    {
+      "id": 4,
+      "title": "Debt-Free Budgeting Strategies",
+      "description": "Gain tools for budgeting while aggressively paying down debt.",
+      "image": "https://media.licdn.com/dms/image/D4D12AQHjnp8H542LQg/article-cover_image-shrink_600_2000/0/1693976745162?e=2147483647&v=beta&t=Ulo8gzzhOUrsxfw_vfmDbiELd7OlRXG1hzUXEKaDCGg",
+      "url": "https://www.forbes.com/advisor/debt-relief/debt-free-in-a-year-steps-and-strategies/"
     }
   ],
   "Cryptocurrency": [
     {
       "id": 1,
-      "title": "Retirement Planning Guide",
-      "description": "Plan for your retirement with these insightful tips and strategies.",
+      "title": "Cryptocurrency: A Beginner's Guide",
+      "description": "Learn the fundamentals of cryptocurrency, blockchain, and key concepts.",
       "image": "https://picsum.photos/1004/400",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://www.coinbase.com/en-gb/learn/crypto-basics"
     },
     {
       "id": 2,
-      "title": "Early Retirement Strategies",
-      "description": "Discover strategies for achieving early retirement.",
+      "title": "Beyond Bitcoin: Other Cryptos",
+      "description": "Explore the diverse world of cryptocurrencies beyond the most well-known ones.",
       "image": "https://picsum.photos/1004/400",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/"
+    },
+    {
+      "id": 3,
+      "title": "The Future of Cryptocurrency",
+      "description": "Learn the fundamentals of cryptocurrency, blockchain, and key concepts.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://www.forbes.com/advisor/investing/cryptocurrency/crypto-market-outlook-forecast/"
+    },
+    {
+      "id": 4,
+      "title": "Cryptocurrency Regulation: Explained",
+      "description": "Understand the evolving regulatory landscape surrounding cryptocurrency.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://www.investopedia.com/cryptocurrency-regulations-around-the-world-5202122"
+    },
+    {
+      "id": 5,
+      "title": "Crypto Investing Strategies",
+      "description": "Discover different approaches to investing in cryptocurrency and managing risk.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://www.moneycontrol.com/msite/wazirx-cryptocontrol-articles/crypto-trading-strategies-you-need-to-know/"
+    },
+    {
+      "id": 6,
+      "title": "Cryptocurrency Security",
+      "description": "Learn essential steps to protect your cryptocurrency investments.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://www.techopedia.com/cryptocurrency-security-best-practices-for-keeping-digital-assets-safe"
     }
   ],
   "Cybersecurity in Finance": [
     {
       "id": 1,
-      "title": "Retirement Planning Guide",
-      "description": "Plan for your retirement with these insightful tips and strategies.",
+      "title": "Banking Cybersecurity Threats",
+      "description": "Explore the unique cybersecurity challenges faced by the banking industry.",
       "image": "https://picsum.photos/1004/400",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://www.knowledgehut.com/blog/security/cyber-security-in-banking"
     },
     {
       "id": 2,
-      "title": "Early Retirement Strategies",
-      "description": "Discover strategies for achieving early retirement.",
+      "title": "Protecting Investment Platforms",
+      "description": "Learn about security measures essential for safeguarding online investment platforms.",
       "image": "https://picsum.photos/1004/400",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://www.indiainfoline.com/knowledge-center/trading-account/how-to-secure-your-trading-account"
+    },
+    {
+      "id": 3,
+      "title": "Phishing Attacks: Finance Focus",
+      "description": "Identify and avoid phishing scams specifically targeting financial information.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://www.phishingbox.com/news/post/ongoing-battle-against-phishing-attacks-financial-services-sector"
+    },
+    {
+      "id": 4,
+      "title": "Data Encryption in Finance",
+      "description": "Understand the importance of data encryption in protecting sensitive financial records.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://apricorn.com/data-encryption-in-finance"
+    },
+    {
+      "id": 5,
+      "title": "Emerging Cybersecurity Threats",
+      "description": "Examine the latest cybersecurity risks in the finance sector and how to stay ahead of them.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://www.thesagenext.com/blog/emerging-cybersecurity-challenges"
     }
   ],
   "Debt Management": [
     {
       "id": 1,
-      "title": "Retirement Planning Guide",
-      "description": "Plan for your retirement with these insightful tips and strategies.",
+      "title": "Debt Snowball vs. Avalanche",
+      "description": "Compare two popular debt repayment strategies for choosing the best fit.",
       "image": "https://picsum.photos/1004/400",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://www.investopedia.com/articles/personal-finance/080716/debt-avalanche-vs-debt-snowball-which-best-you.asp"
     },
     {
       "id": 2,
-      "title": "Early Retirement Strategies",
-      "description": "Discover strategies for achieving early retirement.",
+      "title": "Conquering Credit Card Debt",
+      "description": "Learn actionable strategies for tackling high-interest credit card debt effectively.",
       "image": "https://picsum.photos/1004/400",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://www.nerdwallet.com/article/finance/credit-card-debt"
+    },
+    {
+      "id": 3,
+      "title": "Debt Consolidation Explained",
+      "description": "Understand the pros, cons, and process of consolidating debt.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://economictimes.indiatimes.com/defaultinterstitial.cms"
+    },
+    {
+      "id": 4,
+      "title": "Your Debt Repayment Plan",
+      "description": "Create a step-by-step plan to achieve your debt-free goals.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://www.creditmantri.com/article-how-to-set-up-a-debt-repayment-plan/"
+    },
+    {
+      "id": 5,
+      "title": "Life After Debt Freedom",
+      "description": "Discover how to build lasting financial stability once you're debt-free.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://www.cnbc.com/select/being-debt-free-and-how-it-impacts-life/"
+    },
+    {
+      "id": 6,
+      "title": "Debt Management Tools",
+      "description": "Explore helpful budgeting apps and resources to assist in your debt-management journey.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://startupstash.com/business-debt-management-tools/"
     }
   ],
   "savings": [
     {
       "id": 1,
-      "title": "Retirement Planning Guide",
-      "description": "Plan for your retirement with these insightful tips and strategies.",
+      "title": "The Power of Automation",
+      "description": "Learn how to set up automatic savings for effortless progress.",
       "image": "https://picsum.photos/1004/400",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://fastercapital.com/topics/making-saving-effortless-and-automatic.html"
     },
     {
       "id": 2,
-      "title": "Early Retirement Strategies",
-      "description": "Discover strategies for achieving early retirement.",
+      "title": "Emergency Fund Essentials",
+      "description": "Build a financial safety net with a well-funded emergency fund.",
       "image": "https://picsum.photos/1004/400",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://protium.co.in/emergency-fund/"
+    },
+    {
+      "id": 3,
+      "title": "The Magic of Savings",
+      "description": "Explore the transformative power of saving on your finances and life.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://www.linkedin.com/pulse/magic-savings-investing-1-you-letting-your-eating-away-vijayvergia/"
+    },
+    {
+      "id": 4,
+      "title": "Smart Savings Strategies",
+      "description": "Explore effective techniques to save money consistently and reach your goals.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://www.businessinsider.in/personal-finance/how-to-save-money?r=US&IR=T"
     }
   ],
   "estate planning": [
     {
       "id": 1,
-      "title": "Retirement Planning Guide",
-      "description": "Plan for your retirement with these insightful tips and strategies.",
+      "title": "Wills vs. Trusts Explained",
+      "description": "Understand the differences and when to use each for your estate plan.",
       "image": "https://picsum.photos/1004/400",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://www.investopedia.com/articles/personal-finance/051315/will-vs-trust-difference-between-two.asp"
     },
     {
       "id": 2,
-      "title": "Early Retirement Strategies",
-      "description": "Discover strategies for achieving early retirement.",
+      "title": "Estate Planning for Businesses",
+      "description": "Learn how to protect your business assets and ensure smooth transitions.",
       "image": "https://picsum.photos/1004/400",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://trustandwill.com/learn/estate-planning-for-business-owners"
+    },
+    {
+      "id": 3,
+      "title": "Minimizing Estate Taxes",
+      "description": "Explore strategies to reduce the tax burden on your heirs.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://www.investopedia.com/articles/personal-finance/120715/estate-taxes-who-pays-what-and-how-much.asp"
     }
   ],
   "retirement planning": [
     {
       "id": 1,
-      "title": "Retirement Planning Guide",
-      "description": "Plan for your retirement with these insightful tips and strategies.",
+      "title": "Investing Throughout Retirement",
+      "description": "Discover how to manage your investments even after you stop working.",
       "image": "https://picsum.photos/1004/400",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://www.investopedia.com/articles/personal-finance/111313/six-critical-rules-successful-retirement-investing.asp"
     },
     {
       "id": 2,
-      "title": "Early Retirement Strategies",
-      "description": "Discover strategies for achieving early retirement.",
+      "title": "Controlling Inflation's Impact",
+      "description": "Understand how inflation affects retirement savings and how to adjust your plan.",
       "image": "https://picsum.photos/1004/400",
-      "url": "https://example.com/saving-strategy-guide"
+      "url": "https://www.investopedia.com/terms/i/inflation.asp"
+    },
+    {
+      "id": 3,
+      "title": "Smart Withdrawal Strategies",
+      "description": "Determine how to withdraw money from retirement accounts in a tax-efficient manner.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://www.bankrate.com/retirement/ways-to-withdraw-retirement-funds/"
+    },
+    {
+      "id": 4,
+      "title": "Maximizing Retirement Income",
+      "description": "Learn strategies to boost income sources and make savings last throughout retirement.",
+      "image": "https://picsum.photos/1004/400",
+      "url": "https://www.tiaa.org/public/learn/retirement-planning-and-beyond/ways-to-maximize-your-retirement-income"
     }
   ]
 }
