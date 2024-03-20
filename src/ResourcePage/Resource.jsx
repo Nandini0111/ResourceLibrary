@@ -6,7 +6,7 @@ import { Typography } from "@mui/material";
 import Divider from '@mui/material/Divider';
 import Box from '@mui/material/Box';
 import Grid from '@mui/material/Grid';
-import './Resource.css'
+import './Resource.css';
 
 function Resource() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -21,7 +21,7 @@ function Resource() {
   );
 
   return (
-    <div>
+    <div className='resource-page'>
 <Box sx={{ width: '100%', p: 2 }}>
   <Grid container columnSpacing={{ xs: 0, sm: 0, md: 0 }}>
     <Grid item xs={12} lg={4} className="bg-[#3e4a6a] flex items-center justify-center">
