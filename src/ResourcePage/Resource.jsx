@@ -6,6 +6,7 @@ import { Typography } from "@mui/material";
 import Divider from '@mui/material/Divider';
 import Box from '@mui/material/Box';
 import Grid from '@mui/material/Grid';
+import './Resource.css'
 
 function Resource() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -20,19 +21,19 @@ function Resource() {
   );
 
   return (
-    <div>
+    <div className=".resource-page">
       <Box sx={{ width: '100%', p: 2 }}>
         <Grid container columnSpacing={{ xs: 0, sm: 0, md: 0 }}>
           <Grid item xs={4} style={{ background: '#3e4a6a' }}>
-            <div className='flex justify-center items-center h-screen'>
+            <div className='flex justify-center items-center'>
               <div>
-                <Typography align="center" variant="h4" className='pb-1 hidden sm:block' sx={{ fontWeight: 'bold', color: 'white' }}>
+                <Typography variant="h4" className='pb-1 hidden sm:block' sx={{ fontWeight: 'bold', color: 'white' }}>
                   Resource Library
                 </Typography>
-                <Typography align="center" variant="h6" className='pb-2 pt-3 sm:hidden' sx={{ fontWeight: 'bold', color: 'white' }}>
+                <Typography variant="h6" className='pb-2 pt-3 sm:hidden' sx={{ fontWeight: 'bold', color: 'white' }}>
                   Resource Library
                 </Typography>
-                <Typography align="center" className='pb-2' sx={{ color: 'white' }}>Build your financial knowledge.</Typography>
+                <Typography className='pb-2' sx={{ color: 'white' }}>Build your financial knowledge.</Typography>
               </div>
             </div>
           </Grid>
